@@ -3,7 +3,7 @@ return {
     "lua-language-server",
     "stylua",
     "yamlls",
-    "hadolint",
+    "yamlfmt",
     "gopls",
     "goimports",
     "gofumpt",
